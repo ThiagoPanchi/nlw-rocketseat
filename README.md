@@ -23,64 +23,64 @@ React JS
 React Native
 TypeScript
 
-# Prerequisites
-# Pré-requisitos:
+### Prerequisites
+### Pré-requisitos:
 
 Node JS
 Expo
 
-### Installing
-### Instalando:
+## Installing
+## Instalando:
 
 ## Back-end
 
-# Installing the dependencies:
-# Instalando as dependências:
+### Installing the dependencies:
+### Instalando as dependências:
 
 $ cd server
 $ npm install
 
-# Banco de dados:
-# Database:
+### Banco de dados:
+### Database:
 
 Migrations
 $ npm run knex:migrate
 Seeds
 $ npm run knex:seed
 
-# Starting the Server
-# Iniciando o servidor:
+### Starting the Server
+### Iniciando o servidor:
 
 $ npm run dev
  
 ## Front-end
 
-# Installing the dependencies:
-# Instalando as dependências:
+### Installing the dependencies:
+### Instalando as dependências:
 
 $ cd web
 $ npm install
 
-# Starting the application:
-# Iniciando a aplicação:
+### Starting the application:
+### Iniciando a aplicação:
 
 $ npm start ou yarn start
 
 ## Mobile
 
-# Installing the dependencies:
-# Instalando as dependências:
+### Installing the dependencies:
+### Instalando as dependências:
 
 $ cd mobile
 $ npm install
 
-# Starting the application:
-# Iniciando a aplicação:
+### Starting the application:
+### Iniciando a aplicação:
 
 $ npm start ou yarn start
 
-### Thanks
-### Agradecimentos
+## Thanks
+## Agradecimentos
 
 I would like to thank the Rocketseat team for always providing quality and up-to-date material for experienced developers and beginners.
 
