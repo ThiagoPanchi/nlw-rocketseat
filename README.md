@@ -30,12 +30,11 @@ A seguir você irá precisar instalar as dependencias utilizadas, para isto util
 * Expo
 ```
 
-## Installing
-## Instalando:
+## Installing/Instalando:
 
-## Back-end
+### Back-end
 
-### Installing the dependencies/Instalando as dependências:
+#### Installing the dependencies/Instalando as dependências:
 
 ```
 $ cd server
@@ -43,7 +42,7 @@ $ npm install
 ```
 
 
-### Banco de dados/Database:
+#### Banco de dados/Database:
 
 ```
 Migrations
@@ -52,23 +51,23 @@ Seeds
 $ npm run knex:seed
 ```
 
-### Starting the Server/Iniciando o servidor:
+#### Starting the Server/Iniciando o servidor:
 ```
 $ npm run dev
 ```
 
 ![servernlw](https://user-images.githubusercontent.com/49411335/84054824-53849400-a98a-11ea-8e22-2c9cfcb29d29.PNG)
  
-## Front-end
+### Front-end
 
-### Installing the dependencies/Instalando as dependências:
+#### Installing the dependencies/Instalando as dependências:
 
 ```
 $ cd web
 $ npm install
 ```
 
-### Starting the application/Iniciando a aplicação:
+#### Starting the application/Iniciando a aplicação:
 
 ```
 $ npm start ou yarn start
@@ -76,16 +75,16 @@ $ npm start ou yarn start
 
 ![web](https://user-images.githubusercontent.com/49411335/84056962-5b920300-a98d-11ea-8f49-d3ebbf083064.gif)
 
-## Mobile
+### Mobile
 
-### Installing the dependencies/Instalando as dependências:
+#### Installing the dependencies/Instalando as dependências:
 
 ```
 $ cd mobile
 $ npm install
 ```
 
-### Starting the application/Iniciando a aplicação:
+#### Starting the application/Iniciando a aplicação:
 
 ```
 $ npm start ou yarn start
