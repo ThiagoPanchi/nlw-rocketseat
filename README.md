@@ -18,10 +18,10 @@ A seguir você irá precisar instalar as dependencias utilizadas, para isto util
 ## Technologies Used
 ## Tecnologias Utilizadas:
 
-Node JS
-React JS
-React Native
-TypeScript
+#### Node JS
+#### React JS
+#### React Native
+#### TypeScript
 
 ### Prerequisites
 ### Pré-requisitos:
@@ -40,6 +40,8 @@ Expo
 $ cd server
 $ npm install
 
+
+
 ### Banco de dados:
 ### Database:
 
@@ -52,6 +54,8 @@ $ npm run knex:seed
 ### Iniciando o servidor:
 
 $ npm run dev
+
+![servernlw](https://user-images.githubusercontent.com/49411335/84054824-53849400-a98a-11ea-8e22-2c9cfcb29d29.PNG)
  
 ## Front-end
 
@@ -66,6 +70,8 @@ $ npm install
 
 $ npm start ou yarn start
 
+![web](https://user-images.githubusercontent.com/49411335/84056962-5b920300-a98d-11ea-8f49-d3ebbf083064.gif)
+
 ## Mobile
 
 ### Installing the dependencies:
@@ -78,6 +84,8 @@ $ npm install
 ### Iniciando a aplicação:
 
 $ npm start ou yarn start
+
+![mobile](https://user-images.githubusercontent.com/49411335/84057026-706e9680-a98d-11ea-922d-d2f4830316bb.gif)
 
 ## Thanks
 ## Agradecimentos
